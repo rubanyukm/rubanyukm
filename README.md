@@ -33,7 +33,7 @@ I am a Senior Comp Sci Student <img src="https://media.giphy.com/media/WUlplcMpO
 
 - :seedling: Learning new languages and technologies currently focusing on Google Cloud and Rust.
 
-- :zap: I like to spend my free time outdoors or at the gym.
+- :zap: I like to spend my free time outdoors, with friends, or at the gym.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-RubenMaidaniuc-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ruben-maidaniuc/) <i><b>rubm999@gmail.com</b></i>
 
