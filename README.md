@@ -29,11 +29,11 @@ You can click the Preview link to take a look at your changes.
 
 I am a Senior Comp Sci Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Michigan.
 
-- :telescope: I’m working on my last year at university.
+- :telescope: I’m working on my last year at university and will be graduating soon.
 
-- :seedling: Learning new languages and technologies.
+- :seedling: Learning new languages and technologies currently focusing on Google Cloud and Rust.
 
-- :zap: In my free time, I spend my most of my time outdoors.
+- :zap: I like to spend my free time outdoors or at the gym.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-RubenMaidaniuc-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ruben-maidaniuc/)
 
