@@ -27,11 +27,11 @@ You can click the Preview link to take a look at your changes.
 
 ### :man_technologist: About Me :
 
-I am a Senior Comp Sci Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Michigan.
+I am a recently graduated Comp Sci student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Michigan.
 
-- :telescope: I’m working on my last year at university and will be graduating soon.
+- :telescope: I’m looking to improve my skills and start my career.
 
-- :seedling: Learning new languages and technologies currently focusing on Google Cloud and Rust.
+- :seedling: Learning new languages and technologies currently focusing on AWS, D3.JS, and Rust.
 
 - :zap: I like to spend my free time outdoors, with friends, or at the gym.
 
