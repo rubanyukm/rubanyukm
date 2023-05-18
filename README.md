@@ -31,7 +31,7 @@ I am a recently graduated Comp Sci student <img src="https://media.giphy.com/med
 
 - :telescope: I’m looking to improve my skills and start my career.
 
-- :seedling: Learning new languages and technologies currently focusing on AWS, D3.JS, and Rust.
+- :seedling: Learning new languages and technologies currently focusing on AWS, D3.JS, and React.
 
 - :zap: I like to spend my free time outdoors, with friends, or at the gym.
 
