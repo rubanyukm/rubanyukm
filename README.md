@@ -33,6 +33,8 @@ I am a recently graduated Comp Sci student <img src="https://media.giphy.com/med
 
 - :seedling: Learning new languages and technologies currently focusing on AWS, D3.JS, and React.
 
+- 🔼: Constantly improving the skills and knowledge I already have, Python, Data Structures, Algorithms, HTML, etc...
+
 - :zap: I like to spend my free time outdoors, with friends, or at the gym.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-RubenMaidaniuc-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ruben-maidaniuc/) <i><b>ruben.maidaniuc@gmail.com</b></i>
@@ -54,8 +56,8 @@ I am a recently graduated Comp Sci student <img src="https://media.giphy.com/med
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="GCP" **alt="GCP" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="JetBrains" **alt="JetBrains" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" **alt="Unity" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" **alt="Bash" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="Bash" **alt="Bash" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="Bash" **alt="Bash" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="Bash" **alt="Bash" width="40" height="40"/> 
 </div>
 
 ---
