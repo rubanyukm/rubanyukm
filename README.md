@@ -35,7 +35,7 @@ I am a recently graduated Comp Sci student <img src="https://media.giphy.com/med
 
 - :zap: I like to spend my free time outdoors, with friends, or at the gym.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-RubenMaidaniuc-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ruben-maidaniuc/) <i><b>rubm999@gmail.com</b></i>
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-RubenMaidaniuc-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ruben-maidaniuc/) <i><b>ruben.maidaniuc@gmail.com</b></i>
 
 ---
 
