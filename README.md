@@ -27,11 +27,11 @@ You can click the Preview link to take a look at your changes.
 
 ### :man_technologist: About Me :
 
-I am a recently graduated Comp Sci student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Michigan.
+I am a Software Engineer and Graduate student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Michigan.
 
 - :telescope: I’m looking to improve my skills and start my career.
 
-- :seedling: Learning new languages and technologies currently focusing on AWS, D3.JS, and React.
+- :seedling: Learning new languages and technologies, currently focusing on AWS, D3.JS, and React.
 
 - 🔼: Constantly improving the skills and knowledge I already have, Python, Data Structures, Algorithms, HTML, etc...
 
